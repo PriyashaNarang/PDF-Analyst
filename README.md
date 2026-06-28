@@ -183,3 +183,29 @@ without OCR). For scanned PDFs, you would need to add an OCR step.
 | LLM | Gemini 1.5 Flash | Answer generation |
 | Memory | ConversationBufferMemory | Chat history across turns |
 | Orchestration | LangChain ConversationalRetrievalChain | Wire everything together |
+
+## Screenshots
+
+Picture 1: PDF-Analyst Home Page
+![alt text](<Screenshots/Screenshot 2026-06-28 125503.png>)
+
+Picture 2: Uploading PDF
+![alt text](<Screenshots/Screenshot 2026-06-28 125523.png>)
+
+Picture 3: Advanced Options for chunking
+![alt text](<Screenshots/Screenshot 2026-06-28 131845.png>)
+
+Picture 4: Processed document summary
+![alt text](<Screenshots/Screenshot 2026-06-28 131855.png>)
+
+Picture 5: Query 1
+![alt text](<Screenshots/Screenshot 2026-06-28 131928.png>)
+
+Picture 6: Answer of Query 1
+![alt text](<Screenshots/Screenshot 2026-06-28 131940.png>)
+
+Picture 7: Query 2
+![alt text](<Screenshots/Screenshot 2026-06-28 132005.png>)
+
+Picture 8: Answer of Query 2
+![alt text](<Screenshots/Screenshot 2026-06-28 132020.png>)
